@@ -1,0 +1,27 @@
+Plugins to load:
+	AirbnbPriceParser
+[ConnectionPool] Created a new connection for Thread-0
+	Socket: 45d0d2f[SSL_NULL_WITH_NULL_NULL: Socket[addr=/72.247.17.241,port=443,localport=51903]]
+Got socket: 45d0d2f[SSL_NULL_WITH_NULL_NULL: Socket[addr=/72.247.17.241,port=443,localport=51903]]
+[HttpConnection] Keep-Alive: true -- www.airbnb.es
+[DEBUG][HttpClient] Got URL www.airbnb.es/s/Vitoria%20--%20Spain
+Stored URL "www.airbnb.es:443:/s/Vitoria%20--%20Spain"
+[ConnectionPool] Leased a connection to Thread-0
+	Socket: 45d0d2f[TLS_RSA_WITH_AES_128_CBC_SHA: Socket[addr=/72.247.17.241,port=443,localport=51903]]
+Got socket: 45d0d2f[TLS_RSA_WITH_AES_128_CBC_SHA: Socket[addr=/72.247.17.241,port=443,localport=51903]]
+[HttpConnection] Keep-Alive: true -- www.airbnb.es
+Next page: 2
+{"path":"/s/Vitoria%20--%20Spain","hostname":"www.airbnb.es","scheme":"https","port":"443","records":[{"sourceId":2,"data":["Estudio moderno en Centro Histórico",48,"w"]},{"sourceId":2,"data":["Casa histórica céntrica",52,"p"]},{"sourceId":2,"data":["Habitacion + WIFI en area tranquila",20,"p"]},{"sourceId":2,"data":["Awesome place perfectly locates",33,"p"]},{"sourceId":2,"data":["Iglesia siglo XV",75,"w"]},{"sourceId":2,"data":["Precioso piso en centro de Vitoria",125,"w"]},{"sourceId":2,"data":["Nice 3 bedroom flat (5-6 people) ",54,"w"]},{"sourceId":2,"data":["Habitacion en el centro",37,"p"]},{"sourceId":2,"data":["Casco Viejo Vitoria-Gasteiz",30,"p"]},{"sourceId":2,"data":["Apartamento loft en pleno centro",65,"w"]},{"sourceId":2,"data":[" PISO EN EDIFICIO HISTORICO",120,"w"]},{"sourceId":2,"data":["3 habitaciones dobles con jardin(3)",40,"p"]},{"sourceId":2,"data":["Céntrico apartamento en Vitoria",50,"w"]},{"sourceId":2,"data":["Habitación individual ",30,"p"]},{"sourceId":2,"data":["Piso céntrico en Vitoria para 4",60,"w"]},{"sourceId":2,"data":["LOFT CON ENCANTO EN PLENO CENTRO",50,"w"]},{"sourceId":2,"data":["Alquilo habitación doble",40,"p"]},{"sourceId":2,"data":["Loft en pleno centro de Vitoria",65,"w"]}]}
+[DEBUG][HttpClient] Got URL www.airbnb.es/s/San%20Sebastian%20--%20Spain
+Stored URL "www.airbnb.es:443:/s/San%20Sebastian%20--%20Spain"
+[ConnectionPool] Leased a connection to Thread-0
+	Socket: 45d0d2f[TLS_RSA_WITH_AES_128_CBC_SHA: Socket[addr=/72.247.17.241,port=443,localport=51903]]
+Got socket: 45d0d2f[TLS_RSA_WITH_AES_128_CBC_SHA: Socket[addr=/72.247.17.241,port=443,localport=51903]]
+[HttpConnection] Keep-Alive: true -- www.airbnb.es
+Next page: 2
+{"path":"/s/San%20Sebastian%20--%20Spain","hostname":"www.airbnb.es","scheme":"https","port":"443","records":[{"sourceId":2,"data":["Habitacion amplia y confortable!",23,"p"]},{"sourceId":2,"data":["★BEST LOCATION OLD TOWN-LUXURY LOFT",85,"w"]},{"sourceId":2,"data":["Coqueto estudio en Parte Vieja",55,"w"]},{"sourceId":2,"data":["Habitación para pareja o compartir",25,"p"]},{"sourceId":2,"data":["Modern Loft (free parking)",50,"w"]},{"sourceId":2,"data":["Luxury Penthouse in San Sebastian",145,"w"]},{"sourceId":2,"data":["Habana,WI-FI,vistas la playa",60,"w"]},{"sourceId":2,"data":["Apto. diseño al lado de la playa ",98,"w"]},{"sourceId":2,"data":["UBICACION PERFECTA...BAÑO PRIVADO",40,"p"]},{"sourceId":2,"data":["Single room Old Part WIFI",25,"p"]},{"sourceId":2,"data":["TOWN CENTER BEACH wifi",70,"w"]},{"sourceId":2,"data":["BEAUTIFUL APARTMENT IN THE OLD TOWN",90,"w"]},{"sourceId":2,"data":["WIFI - COQUETO Y LUMINOSO ÁTICO",85,"w"]},{"sourceId":2,"data":["PISO EN EL CENTRO DE DONOSTIA-SAN S",110,"w"]},{"sourceId":2,"data":["Apartamento Parte Vieja Donostiarra",120,"w"]},{"sourceId":2,"data":["Acogedor apartamento con wifi",55,"w"]},{"sourceId":2,"data":["Apartamento playa Zurriola",70,"w"]},{"sourceId":2,"data":["La joya de la parte vieja",150,"w"]}]}
+[DEBUG][HttpClient] Got URL www.airbnb.es/s/Bilbao%20--%20Spain
+Stored URL "www.airbnb.es:443:/s/Bilbao%20--%20Spain"
+Next page: 2
+{"path":"/s/Bilbao%20--%20Spain","hostname":"www.airbnb.es","scheme":"https","port":"443","records":[{"sourceId":2,"data":["Estudio en el centro de la Ciudad",55,"w"]},{"sourceId":2,"data":["El Pisitö - Bed & Pintxos",105,"w"]},{"sourceId":2,"data":["Habitacion 1 o doble",17,"p"]},{"sourceId":2,"data":["CORAZÓN DE BILB:TERRAZA+WIFI+TABLET",72,"w"]},{"sourceId":2,"data":["Precioso piso cerca del casco viejo",65,"w"]},{"sourceId":2,"data":["HABITACION EN EL  CASCO VIEJO",42,"p"]},{"sourceId":2,"data":["LUMINOSA Y TRANQUILA EN EL CENTRO",60,"p"]},{"sourceId":2,"data":["BILBAO-CASCO VIEJO",80,"w"]},{"sourceId":2,"data":["Habitación con futon en casco viejo",30,"p"]},{"sourceId":2,"data":["Amplio apartamento junto Guggenheim",120,"w"]},{"sourceId":2,"data":["HABITACIÓN 1 MIN CASCO VIEJO WIFI",27,"p"]},{"sourceId":2,"data":["NEWLY RENOVATED APARTMENT (4)",85,"w"]},{"sourceId":2,"data":[" HOUSE-BELFRY  /  CASA-CAMPANARIO",65,"w"]},{"sourceId":2,"data":["Habitación muy céntrica",35,"p"]},{"sourceId":2,"data":["Habitación doble céntrica acogedora",28,"p"]},{"sourceId":2,"data":[" Apartment Old Town  WIFI & PARKING",70,"w"]},{"sourceId":2,"data":["2014 World Cup habitación de 70 m^2",50,"p"]},{"sourceId":2,"data":["VERY CENTRAL,OLD TOWN-MUY CÉNTRICO",35,"p"]}]}
+Total time: 0:0:38
